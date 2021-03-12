@@ -10,7 +10,7 @@ Yes.
 
 They know I'm @JaPNaA.
 
-> Yes, but like who's "JaPNaA"
+> Yes, but like who _is_ "JaPNaA?"
 
 Me.
 
@@ -35,7 +35,7 @@ Me.
 > - 👀 I’m interested in _code and 日本語_
 > - 🌱 I’m currently learning ...
 
-... code, and 日本語
+... code, and 日本語.
 
 > You already said code, and those three characters look the same as what you wrote before.
 >
