@@ -86,13 +86,15 @@ I dunno.
 
 I mean I have [social media accounts](https://japnaa.github.io/about), but I don't use it.
 
-I do check my [email](mailto:leonehuang100@gmail.com), but strangers emailing me is scary.
+I do check my [email], but strangers emailing me is scary.
+
+[email]: mailto:leonehuang100@gmail.com
 
 And if you meet me in real life, I'll probably ignore you so.
 
 > So it's impossible?
 
-I mean, I said I check my [email](mailto:leonehuang100@gmail.com), but.
+I mean, I said I check my [email], but.
 
 > No, no one needs to contact you.
 >
