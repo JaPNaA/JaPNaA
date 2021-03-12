@@ -109,3 +109,5 @@ _JaPNaA's imaginary friend stands up, stretches, and walks away._
 > Ahh~! Finally, I'm done!
 
 </details>
+
+<sub>[日本語で読める。](./README.ja.md)</sub>
