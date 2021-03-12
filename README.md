@@ -1,6 +1,6 @@
 Hi, I’m @JaPNaA.
 
-<br><br><br>
+<br><br>
 
 <details><summary> <blockquote style="display: inline-block;"> Is that it? </blockquote> </summary>
 
