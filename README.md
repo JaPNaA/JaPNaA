@@ -2,7 +2,7 @@ Hi, I’m @JaPNaA.
 
 <br><br><br>
 
-> Is that it?
+<details><summary> <blockquote style="display: inline-block;"> Is that it? </blockquote> </summary>
 
 Yes.
 
@@ -105,3 +105,5 @@ I mean, I said I check my [email](mailto:leonehuang100@gmail.com), but.
 _JaPNaA's imaginary friend stands up, stretches, and walks away._
 
 > Ahh~! Finally, I'm done!
+
+</details>
