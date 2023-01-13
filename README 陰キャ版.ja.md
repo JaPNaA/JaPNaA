@@ -112,4 +112,4 @@ _JaPNaAの空想友達が立って、両腕を伸ばして、歩いていった�
 
 </details>
 
-<sub> [Read in English](./README.md) </sub>
+<sub> [Read in English](./README%20antisocial%20version.md) </sub>

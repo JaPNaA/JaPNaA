@@ -110,4 +110,4 @@ _JaPNaA's imaginary friend stands up, stretches, and walks away._
 
 </details>
 
-<sub>[日本語で読めます。](./README.ja.md)</sub>
+<sub>[日本語で読めます。](./README%20陰キャ版.ja.md)</sub>
