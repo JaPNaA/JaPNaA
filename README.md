@@ -1,6 +1,6 @@
 Hello! I'm JaPNaA (Just a Person Not an Alien).
 
-I'm a second-year student majoring in computer science and a teaching assistant at the University of Toronto!
+I'm a third-year student majoring in computer science and a teaching assistant at the University of Toronto!
 
 On my GitHub page, you'll mostly find the code that I've written for fun.
 
